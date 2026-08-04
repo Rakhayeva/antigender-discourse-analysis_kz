@@ -29,7 +29,7 @@
 
 ---
 
-## 📄 Ссылки и документы
+## Ссылки и документы
 
 * **Подробная документация проекта (Google Doc):** [Ссылка на ваш Google Doc](https://docs.google.com/document/d/1vxU1CBMox3VgJoZQ85u9qFjJlaN3yBbi5cLK2UUBkCY/edit?tab=t.0)
 * **База данных и результаты (Google Sheets):** [Ссылка на вашу Google Таблицу](https://docs.google.com/spreadsheets/d/1jvSURsw-3WkUmMF34BlXnZE2CTCzMABzNLiey2PYt7g/edit?gid=33676643#gid=33676643)
