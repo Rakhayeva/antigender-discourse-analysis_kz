@@ -25,7 +25,7 @@
 
 ## Структура репозитория
 
-* `[discourse_analysis.ipynb](discourse_analysis.ipynb)` — Google Colab ноутбук с полным циклом загрузки, парсинга, кодирования через Claude API и построения графиков.
+* discourse_analysis.ipynb — Google Colab ноутбук с полным циклом загрузки, парсинга, кодирования через Claude API и построения графиков.
 
 ---
 
