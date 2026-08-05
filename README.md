@@ -25,8 +25,8 @@
 
 ## Следующие шаги проекта
 
-* **Оценка межэкспертной надежности (Inter-rater reliability).** Проведение повторного кодирования через API Gemini для расчета метрик согласия моделей.
-* **Ручная валидация.** Полная ручная проверка закодированных результатов на всем корпусе для проверки точности и формирования финальных выводов.
+* **Оценка межэкспертной надежности (Inter-rater reliability):** Необходимо провести повторное кодирование через API Gemini для расчета метрик согласия моделей.
+* **Ручная валидация.:** Будет выполнена полная ручная проверка закодированных результатов на всем корпусе для проверки точности и формирования финальных выводов.
 
 ---
 
@@ -38,8 +38,8 @@
 
 ## Ссылки и документы
 
-* **Подробная документация проекта (Google Doc):** [Ссылка на ваш Google Doc](https://docs.google.com/document/d/1vxU1CBMox3VgJoZQ85u9qFjJlaN3yBbi5cLK2UUBkCY/edit?tab=t.0)
-* **База данных и результаты (Google Sheets):** [Ссылка на вашу Google Таблицу](https://docs.google.com/spreadsheets/d/1jvSURsw-3WkUmMF34BlXnZE2CTCzMABzNLiey2PYt7g/edit?gid=33676643#gid=33676643)
+* Подробная документация проекта (Google Doc): [Ссылка на ваш Google Doc](https://docs.google.com/document/d/1vxU1CBMox3VgJoZQ85u9qFjJlaN3yBbi5cLK2UUBkCY/edit?tab=t.0)
+* База данных и результаты (Google Sheets): [Ссылка на вашу Google Таблицу](https://docs.google.com/spreadsheets/d/1jvSURsw-3WkUmMF34BlXnZE2CTCzMABzNLiey2PYt7g/edit?gid=33676643#gid=33676643)
 
 ---
 
